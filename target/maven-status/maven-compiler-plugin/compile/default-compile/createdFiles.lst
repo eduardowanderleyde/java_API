@@ -20,5 +20,7 @@ com/eduardowanderley/javaapi/controller/TestController.class
 com/eduardowanderley/javaapi/model/User$Builder.class
 com/eduardowanderley/javaapi/service/AuthenticationService.class
 com/eduardowanderley/javaapi/repository/UserRepository.class
+com/eduardowanderley/javaapi/controller/FileController.class
 com/eduardowanderley/javaapi/dto/UserCreateDTO.class
 com/eduardowanderley/javaapi/dto/UserDTO$Builder.class
+com/eduardowanderley/javaapi/service/S3Service.class
