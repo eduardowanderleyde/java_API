@@ -5,6 +5,7 @@
 /Users/Wander/java_API/src/main/java/com/eduardowanderley/javaapi/exception/ResourceNotFoundException.java
 /Users/Wander/java_API/src/main/java/com/eduardowanderley/javaapi/dto/UserDTO.java
 /Users/Wander/java_API/src/main/java/com/eduardowanderley/javaapi/security/JwtAuthenticationFilter.java
+/Users/Wander/java_API/src/main/java/com/eduardowanderley/javaapi/service/S3Service.java
 /Users/Wander/java_API/src/main/java/com/eduardowanderley/javaapi/JavaApiApplication.java
 /Users/Wander/java_API/src/main/java/com/eduardowanderley/javaapi/config/OpenApiConfig.java
 /Users/Wander/java_API/src/main/java/com/eduardowanderley/javaapi/security/JwtUtil.java
@@ -17,6 +18,7 @@
 /Users/Wander/java_API/src/main/java/com/eduardowanderley/javaapi/controller/UserController.java
 /Users/Wander/java_API/src/main/java/com/eduardowanderley/javaapi/dto/UserCreateDTO.java
 /Users/Wander/java_API/src/main/java/com/eduardowanderley/javaapi/controller/TestController.java
+/Users/Wander/java_API/src/main/java/com/eduardowanderley/javaapi/controller/FileController.java
 /Users/Wander/java_API/src/main/java/com/eduardowanderley/javaapi/config/SecurityConfig.java
 /Users/Wander/java_API/src/main/java/com/eduardowanderley/javaapi/exception/ErrorResponse.java
 /Users/Wander/java_API/src/main/java/com/eduardowanderley/javaapi/model/User.java
